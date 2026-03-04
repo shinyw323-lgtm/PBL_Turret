@@ -230,7 +230,7 @@ int main(void)
   last_pid_time = HAL_GetTick();
 
   printf("\r\n========================================\r\n");
-  printf("    Gimbal Controller Initialized\r\n");
+  printf("    Gimbalcv Controller Initialized\r\n");
   printf("    Mode: %s\r\n", control_mode ? "MANUAL" : "AUTO (PID)");
   printf("    Laser: %s\r\n", laser_state ? "ON" : "OFF");
   printf("========================================\r\n");
