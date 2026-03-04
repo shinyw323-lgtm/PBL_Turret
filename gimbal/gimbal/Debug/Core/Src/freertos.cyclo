@@ -1,0 +1,7 @@
+../Core/Src/freertos.c:91:6:vApplicationGetIdleTaskMemory	1
+../Core/Src/freertos.c:104:6:MX_FREERTOS_Init	1
+../Core/Src/freertos.c:153:6:StartGimbalTask	7
+../Core/Src/freertos.c:210:6:StartMonitorTask	5
+../Core/Src/freertos.c:258:6:StartActionTask	4
+../Core/Src/freertos.c:279:10:crc_accumulate	1
+../Core/Src/freertos.c:285:10:Calculate_Mavlink_CRC	2

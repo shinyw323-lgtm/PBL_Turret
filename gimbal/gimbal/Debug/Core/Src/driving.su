@@ -1,0 +1,4 @@
+../Core/Src/driving.c:15:6:Driving_Init	8	static
+../Core/Src/driving.c:32:17:scale_speed	16	static
+../Core/Src/driving.c:36:6:Driving_SetSpeed	32	static
+../Core/Src/driving.c:59:6:Driving_Stop	8	static
